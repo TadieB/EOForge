@@ -84,7 +84,7 @@ If you use EOForge in your work, please cite:
 @inproceedings{eoforge2026,
   title     = {EOForge: A Scalable, Efficient Dataset-as-Code Pipeline
                for Earth Observation and Climate Applications},
-  author    = {[Author names]},
+  author    = {Tadie B. Medimem, Sandro Luigi Fiore, Farid Melgani, Valentine G. Anantharaj},
   booktitle = {[Venue]},
   year      = {2026}
 }
@@ -94,10 +94,10 @@ If you use EOForge in your work, please cite:
 
 ## Acknowledgments
 
-Developed at the Department of Information Engineering and Computer Science, University of Trento, using compute resources at the Oak Ridge Leadership Computing Facility (OLCF). Add advisor/collaborator credits as appropriate.
+Developed at the Department of Information Engineering and Computer Science, University of Trento, using compute resources at the Oak Ridge Leadership Computing Facility (OLCF). 
 
 ---
 
 ## License
 
-[MIT](LICENSE) — placeholder; update to match your institution's or funding requirements.
+[MIT](LICENSE) 
